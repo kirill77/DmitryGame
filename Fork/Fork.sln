@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fork", "Fork.vcxproj", "{A6DB6C6A-D3C9-4F80-AB59-FE101DDC5F82}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "loadPng", "..\lodepng\loadPng.vcxproj", "{C4D07312-61B5-42DD-8E4C-945EEF5D73C6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "loadPng", "..\mylodepng\loadPng.vcxproj", "{C4D07312-61B5-42DD-8E4C-945EEF5D73C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
